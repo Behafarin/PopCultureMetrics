@@ -43,6 +43,13 @@
 
 ---
 
+## Dataset Preview
+Here’s a snapshot of the dataset (final artist statistics):
+
+![Dataset Preview](https://raw.githubusercontent.com/Behafarin/PopCultureMetrics/main/data/dataset_preview.png)
+
+---
+
 ### **Steps to Reproduce**
 1. Clone the repository:  
    ```bash
