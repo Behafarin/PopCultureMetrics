@@ -1,0 +1,24 @@
+# Web scraping
+requests
+beautifulsoup4
+
+# Data manipulation and analysis
+pandas
+numpy
+
+# API interaction
+spotipy
+
+# Natural Language Processing
+spacy
+
+# Sentiment analysis
+textblob
+
+# Machine learning and visualization
+scikit-learn
+matplotlib
+seaborn
+
+# Jupyter notebooks
+notebook
